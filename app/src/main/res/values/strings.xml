@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PokeChallenge</string>
+    <string name="pokeimg">pokeImg</string>
+    <string name="pokemon_name">Pokemon Name</string>
+    <string name="pokemon_type">Pokemon Type</string>
+    <string name="pokemon_2nd_type">Pokemon 2nd Type</string>
+    <string name="pokemon_information">Pokemon Information</string>
+    <string name="pokemon_stats">Pokemon Stats</string>
+    <string name="pokemon_description">Pokemon Description</string>
+    <string name="n_a">N/A</string>
+</resources>
